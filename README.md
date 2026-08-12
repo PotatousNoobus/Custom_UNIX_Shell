@@ -187,7 +187,3 @@ This project demonstrates important Unix programming concepts:
 - Dynamic memory allocation in C
 - String tokenization and parsing
 - File descriptor and I/O operations
-
----
-
-*Happy Shelling! 🐚*
