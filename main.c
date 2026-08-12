@@ -138,11 +138,12 @@ int csh_cd(char **args) {
             perror("csh");
         }
     }
+    printf("The cd command is working fine.");
     return 1;
 }
 int csh_help(char **args) {
     printf("Welcome to Raj's first custom shell !");
-    printf("The following commands are available to use :D");
+    printf("The following commands are available to use :D\n");
 
     for (int i=0; i<csh_numOfBuiltins(); i++) {
         printf("%s \n",builtin_str[i]);
