@@ -138,7 +138,7 @@ int csh_cd(char **args) {
             perror("csh");
         }
     }
-    printf("The cd command is working fine.");
+    printf("The cd command is working fine.\n");
     return 1;
 }
 int csh_help(char **args) {
