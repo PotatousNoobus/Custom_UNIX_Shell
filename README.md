@@ -1,6 +1,4 @@
-# Custom_UNIX_Shell
-
-# Raj's Custom Shell (CSH)
+# Custom_UNIX_Shell (CSH)
 
 A lightweight, minimalist Unix-based shell implementation written in C. This project demonstrates core shell functionality including command execution, built-in commands, and process management.
 
